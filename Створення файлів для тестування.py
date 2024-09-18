@@ -1,4 +1,5 @@
-Створення файлів для тестування.pyimport os
+Створення файлів для тестування.py
+import os
 import random
 import zipfile
 from PIL import Image
